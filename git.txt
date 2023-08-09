@@ -1,0 +1,10 @@
+Git:
+Git is a distributed version control system (VCS). Here's what you need to know:
+
+Version Control System: This means that Git helps you track changes in your code over time. So, if five months from now you want to recall the version of your code from today, you can do that. It's like having a time machine for your codebase.
+
+Distributed: Unlike some other version control systems, every developer's copy of the codebase in Git is a complete clone – with its entire change history. This means you don't need a connection to a central server to make commits, check the history, or perform other version control operations; you can do it all locally.
+
+Commits: A commit in Git is like a snapshot of your code at a given point in time. When you make a commit, you're telling Git, "Remember this exact state of all the files as they exist right now."
+
+Branches: One of the powerful features of Git is branching. Imagine you want to develop a new feature but don't want to risk introducing bugs to the main (often referred to as master or main) branch of your code. In Git, you can create a separate branch to develop the feature. Once it's stable, you can merge this branch back into the main branch.

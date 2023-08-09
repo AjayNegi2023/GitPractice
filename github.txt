@@ -1,0 +1,12 @@
+GitHub:
+GitHub is a platform for hosting and collaborating on projects. Here's what sets it apart:
+
+Remote Repository Hosting: While Git is a tool running on your local machine that tracks changes to your code, GitHub provides a space online ("remote") to store repositories. This makes it easier to collaborate with others and provides a backup of your code.
+
+Collaboration: Multiple people can work on a project hosted on GitHub. They can make their own copies (called "forks"), suggest changes, report issues, and even contribute directly if given permission.
+
+Pull Requests: A major feature of GitHub. If you've made a change to a project (even one you don't own) and want to contribute it back, you create a "pull request" (PR). This is a way to tell the original repository maintainers, "Hey, I made some changes that I think you'll like. Please consider adding them to the project."
+
+GitHub Actions: This is a feature that allows you to automate software workflows. For example, every time someone creates a pull request to your project, you can automatically run tests to make sure their changes don't introduce bugs.
+
+Other Features: GitHub offers numerous other features like project management tools, wikis for documentation, and GitHub Pages for hosting static websites directly from your repository.
